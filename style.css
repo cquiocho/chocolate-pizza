@@ -1,0 +1,82 @@
+#header {
+    flex-direction: row;
+}
+#logo {
+    display: inline-block;
+    width: 30px;
+}
+
+#name {
+    font-style: bold, oblique;
+    font-family: cursive;
+    
+}
+
+#name-text {
+    font-size: .5em;
+}
+
+#social-media {
+    width: 20px;
+
+}
+
+#utilities {
+
+}
+
+#line {
+
+}
+
+h1 {
+
+}
+
+#post-date {
+
+}
+
+#print {
+
+}
+
+#hero {
+
+}
+
+#words {
+
+}
+
+#paper-list {
+
+}
+
+#list-one {
+
+}
+
+#list-two {
+
+}
+
+#vanessa {
+
+}
+
+h2 {
+
+}
+
+button {
+
+}
+
+#footer-pic {
+
+}
+
+#footer-copyright {
+
+}
