@@ -1,0 +1,94 @@
+body {
+    margin: 1% 28% 1% 24%;
+}
+#header {
+    display: flex;
+    flex-direction: row;
+}
+#logo {
+    display: inline-block;
+    width: 30px;
+}
+
+#name {
+    font-style: bold, oblique;
+    font-family: brush script, cursive;
+}
+
+#name-text {
+    font-size: .5em;
+}
+
+#top {
+    float: right;
+}
+#social-media {
+    align: right;
+}
+
+#utilities {
+    justify-content: flex-end;
+}
+
+#line {
+
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#post-date {
+    font-size: .5em;
+}
+
+#print {
+    font-size: .5em;
+}
+
+#hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#words {
+    opacity: 0.5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+
+}
+#paper-list {
+
+}
+
+#list-one {
+    display: inline-block;
+
+}
+
+#list-two {
+    display: inline-block;
+}
+
+#vanessa {
+
+}
+
+h2 {
+
+}
+
+button {
+
+}
+
+#footer-pic {
+
+}
+
+#footer-copyright {
+
+}
